@@ -1,0 +1,15 @@
+pre {
+	/* background-color: #f8f8f8; */
+	border: 1px solid #576311 #e6db74 #75715e;
+	border-radius: 3px;
+	overflow-x: auto;
+	white-space: pre-wrap;
+    overflow-wrap: break-word;
+    
+    colors-cancel: #f92672;
+    colors-code: #fd971f;
+    colors-comment: #75715e;
+    colors-done: #a6e22e;
+    colors-project: #66d9ef;
+    colors-tag: #e6db74;
+}

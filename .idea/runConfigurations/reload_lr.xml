@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="reload lr" type="lua.app" factoryName="Lua Application" activateToolWindowBeforeRun="false" singleton="true">
+    <option name="program" value="lua.exe" />
+    <option name="file" value="reload.lua" />
+    <option name="workingDir" value="C:\Users\lovebird\git_project\lr_common\design\scene_script\cmd" />
+    <option name="debuggerType" value="1" />
+    <option name="params" value="" />
+    <method />
+  </configuration>
+</component>
