@@ -1,7 +1,6 @@
 # 线性代数
 
-- 内积
-    - 定义:
+- [参考视频](https://www.bilibili.com/video/av6731067/)
 - myan的矩阵解读
     - [1](http://blog.csdn.net/myan/article/details/647511)
     - [2](http://blog.csdn.net/myan/article/details/649018)
