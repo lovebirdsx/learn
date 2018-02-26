@@ -1,5 +1,7 @@
 # 线性代数
 
+## 参考资料
+
 - [参考视频](https://www.bilibili.com/video/av6731067/)
 - myan的矩阵解读
     - [1](http://blog.csdn.net/myan/article/details/647511)
