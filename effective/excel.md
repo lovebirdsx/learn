@@ -21,3 +21,5 @@
 - alt+pageup alt+pagedown 横向翻页
 - 按一次scroll lock,可以通过上下左右移动视图
 - shift+f2转到定义 ctrl+shift+f2回到之前
+- alt+i r 添加行
+- alt+i c 添加列
